@@ -1,4 +1,4 @@
-# Finding-Pokemon-
+# Finding-Pokemon
 Machine learning model to analyze dataset and classify characters using different classification techniques like KNN and Logistic Regression.
 
 This is the link to my finding pokemon project: https://colab.research.google.com/drive/11H3dI4ED2VHWxw-wPJ1K-iwBCuzkhVZ-?usp=sharing
